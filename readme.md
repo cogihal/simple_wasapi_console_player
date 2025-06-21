@@ -12,8 +12,8 @@ This is a simple wav file console player script using WASAPI.
 ## Developing environments
 
 - Windows 11 Pro
-- Python 3.12.7  
-- comtypes==1.4.9
+- Python 3.13.4  
+- comtypes==1.4.11
 - pycaw==20240210
 - pyreadline3==3.5.4
 

@@ -1,0 +1,11 @@
+[project]
+name = "simple-wasapi-console-player"
+version = "1.0.0"
+description = "Simple wav file console player using WASAPI"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "comtypes>=1.4.11",
+    "pycaw>=20240210",
+    "pyreadline3>=3.5.4",
+]
